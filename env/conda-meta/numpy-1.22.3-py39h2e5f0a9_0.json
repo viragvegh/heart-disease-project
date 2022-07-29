@@ -1,0 +1,41 @@
+{
+  "build": "py39h2e5f0a9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "libcxx >=12.0.0",
+    "mkl >=2021.4.0,<2022.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.22.3 py39h3b1a694_0",
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/Users/viragvegh/opt/miniconda3/pkgs/numpy-1.22.3-py39h2e5f0a9_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.22.3-py39h2e5f0a9_0.conda",
+  "legacy_bz2_md5": "181d3b018cf810e12f44cbb96d2180bf",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/Users/viragvegh/opt/miniconda3/pkgs/numpy-1.22.3-py39h2e5f0a9_0",
+    "type": 1
+  },
+  "md5": "16892a18dae1fb1522845e4b6005b436",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/viragvegh/opt/miniconda3/pkgs/numpy-1.22.3-py39h2e5f0a9_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy",
+  "sha256": "1d20947b5a922f3a82ae0af8b1d31a1cb968dc62b2cb887ae271e30a41d1d65b",
+  "size": 11017,
+  "subdir": "osx-64",
+  "timestamp": 1652802606965,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.22.3-py39h2e5f0a9_0.conda",
+  "version": "1.22.3"
+}
